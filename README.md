@@ -1,5 +1,5 @@
 # Nobetci-Eczane
-Türkiye il ve ilçe nöbetçi eczane listesi
+Türkiye il ve ilçe günlük nöbetçi eczane listesi
 
 Not:Tüm Türkiyeyi %100 olarak göstermemekte.
 
